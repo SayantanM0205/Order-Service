@@ -10,6 +10,6 @@ class OrderServiceApplicationTests {
 	void contextLoads() {
 	}
 
-	//test cases to be added
+	//test cases to be added for create, fetch, update and delete apis
 
 }
